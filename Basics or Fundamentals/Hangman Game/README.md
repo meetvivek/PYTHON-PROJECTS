@@ -11,7 +11,7 @@ Welcome to the Hangman Game project! This Python-based game is a classic word-gu
 ## How to Play
 
 - Clone the repository to your local machine.
-- 2. Ensure you have Python installed.
+- Ensure you have Python installed.
 - Run `Hangman_Game.py` in a Python environment.
 - You can run on Replit: https://replit.com/@meet-vivek/HangmanGame
 
