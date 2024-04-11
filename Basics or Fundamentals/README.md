@@ -11,7 +11,9 @@ This folder contains basic Python projects focusing on fundamental concepts to h
 3. **Calculator**: Empower your mathematical prowess with the Python Calculator, a versatile tool that allows users to perform basic arithmetic operations effortlessly, offering a user-friendly interface and enhancing productivity in everyday calculations.
 
 4. **Guess The Number**: Guess the Number is a Python-based game where players attempt to guess a randomly generated number within a specified range. With options to choose between easy and hard difficulty levels, players can enjoy a challenging yet fun experience while honing their guessing skills.
+
+5. **Blackjack Game**: The Blackjack Game project is a Python-based implementation of the classic casino card game. Players can enjoy interactive console-based gameplay, challenging themselves to get as close to 21 as possible without exceeding it while competing against a computer dealer. With randomly generated card values and flexible scoring mechanics, it offers an engaging and dynamic gaming experience. 
    
-5. **More Projects**: More projects will be added soon!
+6. **More Projects**: More projects will be added soon!
 
 Feel free to explore each project to understand basic Python concepts in action.
