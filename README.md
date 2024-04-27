@@ -6,7 +6,7 @@ As a budding Python developer, I understand the importance of practical experien
 Organized by categories, each folder within this repository contains a collection of projects tailored to enhance my understanding and expertise in different aspects of Python programming. From fundamental concepts to advanced applications, these projects showcase my dedication, creativity, and problem-solving abilities as I strive towards becoming a proficient Python developer.
 
 ## Categories
-- **Basics or Fundamentals:** Entry-level Python projects focusing on fundamental concepts.
+- **Command-Line Interface Application:** Minor Command- Line based Python projects focusing on fundamental concepts.
 - **More Categories will be added.**
 
 
