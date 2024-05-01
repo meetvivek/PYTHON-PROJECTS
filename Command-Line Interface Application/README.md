@@ -1,6 +1,6 @@
-# Welcome to Basics or Fundamentals!
+# Welcome to Command-Line Interface (CLI) Applications/Projects!
 
-This folder contains basic Python projects focusing on fundamental concepts to help beginners learn programming with Python.
+This folder contains minor CLI based Python projects focusing on fundamental concepts to help beginners learn programming with Python.
 
 ## Projects:
 
@@ -18,6 +18,6 @@ This folder contains basic Python projects focusing on fundamental concepts to h
 
 7. **Coffee Machine**: The Coffee Machine project simulates the functionality of a real-life coffee machine, offering users a selection of drinks to choose from, managing resources, handling payments, and providing reports. With its intuitive interface and comprehensive features, this project provides a fun and interactive way to explore object-oriented programming principles in Python while learning about the operation of a coffee machine.
    
-8. **More Projects**: More projects will be added soon!
+8. **Quiz Game**: This project is a Python-based quiz game that allows users to test their knowledge by answering true or false questions. It utilizes object-oriented programming (OOP) principles to structure the code and manage the quiz flow.
 
-Feel free to explore each project to understand basic Python concepts in action.
+Feel free to explore each project to understand fundamentals of Python concepts in action.
